@@ -22,7 +22,6 @@ Uma piscada é representada por três caracteres * ou -, representando, respecti
 
 Exemplo de entrada: &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Exemplo de saída:
 ```
-
 --*                                1
 caw caw                            4
 *--                                0   
@@ -35,7 +34,7 @@ caw caw
 Código simples que calcula um número N de termos da sequência de Fibonacci
 
 # Primos
-Código que recebe um número N de casos de teste e, para cada caso de teste, recebe um número e testa para descobrir se ele é ou não primo
+Código que recebe um número N de casos de teste e, para cada caso de teste, lê um número e testa para descobrir se ele é ou não primo
 
 # Hello World
 Hello World em C++ :)
