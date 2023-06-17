@@ -1,2 +1,2 @@
 # Cpp
-Alguns códigos básicos em cpp
+Alguns códigos básicos de cpp
