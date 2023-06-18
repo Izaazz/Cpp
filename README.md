@@ -1,6 +1,11 @@
 # Cpp
 Alguns códigos básicos de C++
 
+# Tempo de Jogo
+Lê a hora inicial, minuto inicial, hora final e minuto final de um jogo. A seguir calcula a duração do jogo.
+
+A entrada consistem em quatro números inteiros representando a hora de início e fim do jogo.
+
 # Ataque aéreo:
 Versão alternativa de pedra, papel, tesoura: pedra, papel, ataque aéreo!
 
